@@ -1,0 +1,128 @@
+{
+	"gt-directory": 1,
+	"total": 19,
+	"roomphone": "404-355-1111",
+	"roomreboot": 6,
+	"roomdata":[
+	{
+		"id": 1,
+		"room_name": "COB 100",
+		"off_hour": 21,
+		"off_minute": 15
+	},
+	{
+		"id": 2,
+		"room_name": "COB 101",
+		"off_hour": 22,
+		"off_minute": 15
+		"smp": {
+			"ip": "172.21.24.45",
+			"subnet": "255.255.252.0",
+			"gateway": "172.21.8.1",
+			"device": "Room-101",
+			"location": "COB"
+		}
+	},
+	{
+		"id": 3,
+		"room_name": "COB 102",
+		"off_hour": 22,
+		"off_minute": 15
+	},
+	{
+		"id": 4,
+		"room_name": "COB 103",
+		"off_hour": 23,
+		"off_minute": 15
+	},
+	{
+		"id": 5,
+		"room_name": "COB 200",
+		"off_hour": 21,
+		"off_minute": 15
+	},
+	{
+		"id": 6,
+		"room_name": "COB 201",
+		"off_hour": 21,
+		"off_minute": 15
+	},
+	{
+		"id": 7,
+		"room_name": "COB 202",
+		"off_hour": 21,
+		"off_minute": 15
+	},
+	{
+		"id": 8,
+		"room_name": "COB 203",
+		"off_hour": 21,
+		"off_minute": 15
+	},
+	{
+		"id": 9,
+		"room_name": "COB 221",
+		"off_hour": 21,
+		"off_minute": 15
+	},
+	{
+		"id": 10,
+		"room_name": "COB 222",
+		"off_hour": 22,
+		"off_minute": 30
+	},
+	{
+		"id": 11,
+		"room_name": "COB 223",
+		"off_hour": 22,
+		"off_minute": 30
+	},
+	{
+		"id": 12,
+		"room_name": "COB 224",
+		"off_hour": 22,
+		"off_minute": 30
+	},
+	{
+		"id": 13,
+		"room_name": "COB 300",
+		"off_hour": 22,
+		"off_minute": 30
+	},
+	{
+		"id": 14,
+		"room_name": "COB 311AB",
+		"off_hour": 22,
+		"off_minute": 15
+	},
+	{
+		"id": 15,
+		"room_name": "COB 313AB",
+		"off_hour": 22,
+		"off_minute": 15
+	},
+	{
+		"id": 16,
+		"room_name": "COB 312",
+		"off_hour": 22,
+		"off_minute": 15
+	},
+	{
+		"id": 17,
+		"room_name": "COB 314",
+		"off_hour": 21,
+		"off_minute": 15
+	},
+	{
+		"id": 18,
+		"room_name": "COB 316",
+		"off_hour": 22,
+		"off_minute": 15
+	},
+	{
+		"id": 19,
+		"room_name": "COB 4167",
+		"off_hour": 21,
+		"off_minute": 15
+	}]
+}
